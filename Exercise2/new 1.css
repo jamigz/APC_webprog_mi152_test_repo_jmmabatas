@@ -1,0 +1,51 @@
+#heading {
+	background: #000000;
+	width: 45%;
+	height: 10%;
+	border: 1px solid black;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+	text-align: center;
+}
+
+#left {
+	background: white;
+	width: 10%;
+	height: 50%;
+	border: 1px solid green;
+	position: absolute;
+	top:15%;
+	left:15%;
+}
+
+#main{
+	background: white;
+	width: 25%;
+	height: 50%;
+	border: 1px solid red;
+	position: absolute;
+	top: 15%;
+	left: 25%;
+}
+h1{
+	color:white;
+	font-family: arial;
+}
+#right {
+	background: white;
+	width: 10%;
+	height: 50%;
+	border: 1px solid blue;
+	position: absolute;
+	top:15%;
+	left:50%;
+}
+#footer {
+	background: white;
+	width: 45%;
+	height: 15%;
+	border: 1px solid violet;
+	position: absolute;
+	top:65%;
+	left:15%;
